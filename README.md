@@ -15,14 +15,37 @@ Seeking a developer role where I can work with people equally passionate about c
 
 Code Examples
 -------------
-|Project Name | Description |
-|-------------|-------------|
-|[Changr](https://github.com/samover/changr)| Swift mobile app for helping the less advantaged in society to receive donations on the fly |
-|[FirebaseMock](https://github.com/samover/FirebaseMock) | Ad-hoc mock for Firebase in Swift in order to write effective UI tests |
-|[Chitter](https://github.com/samover/chitter)| A Twitter clone built in Ruby on Sinatra, styled in CSS3 and HTML5 |
-|[Instagram](https://github.com/samover/instagram)| An Instagram clone built in Ruby on Rails, styled with Bootstrap.|
-|[Bowling Scorecard](https://github.com/samover/bowling) | A Bowling Scorecard in Javascript (jQuery) |
-|[Todo List](https://github.com/samover/todo_list) | A single page Todo List written in AngularJS |
+#### [CHANGR](https://github.com/samover/changr)
+
+Final project for Makers Academy. Working in an agile team we build an IOS app in **Swift**, a language none of us had any prior experience with. With this project we wanted to help the less advantaged in our society to receive donations on the fly using a location-aware app thanks to **Bluethooth Beacons**.
+
+Using a TDD approach, I had to write [an ad-hoc mock](https://github.com/samover/FirebaseMock) for **Firebase** in Swift, which I tested using **Quick/Nimble**. Unit testing was done through **XCTest**.
+
+The presentation video of the app can be found on [Youtube](https://www.youtube.com/watch?v=AyVZJ511cqI)
+
+#### [CHITTER](https://github.com/samover/chitter)
+
+A fully tested Twitter clone built in **Ruby on Sinatra** with a **postresql** databse. This is my first project using these technologies as well as the first time I tried front-end styling in **CSS3** and **HTML5**.
+
+The app was built in two days and can be found on [Heroku](https://badass-chitter.herokuapp.com/).
+
+#### [INSTAGRAM](https://github.com/samover/instagram)
+
+My first rails app. This is an Instagram clone styled with Bootstrap. Of course it is fully tested using **rspec**, **capybara** and **FactoryGirl**.
+
+The app was built in two days and can be found on [Heroku](https://instaclone-challenge.herokuapp.com/).
+
+#### [BOWLING SCORECARD](https://github.com/samover/bowling_scorecard)
+
+This is my first app written in **Javascript** using **jQuery**. It is fully test driven in **Jasmine**. The biggest challenge with this app was building the logic for the tenth frame.
+
+[TODO LIST](https://github.com/samover/todo_list)
+
+My first **angularJS** single page app written over a weekend. It is a simple Todo List and tested using **Karma** and **Protractor**.
+
+[TAKE AWAY BACKEND](https://github.com/samover/takeaway)
+
+One of the first **Ruby** apps I am really proud off. This was an exercise in Objected Oriented Programming and **SOLID** design principles, and the first time I connected an app to an API. Fully tested in **rspec**. 
 
 Technical Skills and Technologies
 ---------------------------------
