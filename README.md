@@ -17,11 +17,11 @@ Code Examples
 -------------
 #### [CHANGR](https://github.com/samover/changr)
 
-Final project for Makers Academy. Working in an agile team we build an IOS app in **Swift**, a language none of us had any prior experience with. With this project we wanted to help the less advantaged in our society to receive donations on the fly using a location-aware app thanks to **Bluethooth Beacons**.
+Final project for Makers Academy. Working in an agile team we build an IOS app in **Swift**, a language none of us had any prior experience with. With this project we wanted to help the less advantaged in our society to receive donations on the fly using a location-aware app thanks to **Bluetooth Beacons**.
 
 Using a TDD approach, I had to write [an ad-hoc mock](https://github.com/samover/FirebaseMock) for **Firebase** in Swift, which I tested using **Quick/Nimble**. Unit testing was done through **XCTest**.
 
-The presentation video of the app can be found on [Youtube](https://www.youtube.com/watch?v=AyVZJ511cqI)
+The presentation video of the app can be found on [Youtube](https://youtu.be/AyVZJ511cqI?t=96)
 
 #### [CHITTER](https://github.com/samover/chitter)
 
