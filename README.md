@@ -39,11 +39,11 @@ The app was built in two days and can be found on [Heroku](https://instaclone-ch
 
 This is my first app written in **Javascript** using **jQuery**. It is fully test driven in **Jasmine**. The biggest challenge with this app was building the logic for the tenth frame.
 
-[TODO LIST](https://github.com/samover/todo_list)
+#### [TODO LIST](https://github.com/samover/todo_list)
 
 My first **angularJS** single page app written over a weekend. It is a simple Todo List and tested using **Karma** and **Protractor**.
 
-[TAKE AWAY BACKEND](https://github.com/samover/takeaway)
+#### [TAKE AWAY BACKEND](https://github.com/samover/takeaway)
 
 One of the first **Ruby** apps I am really proud off. This was an exercise in Objected Oriented Programming and **SOLID** design principles, and the first time I connected an app to an API. Fully tested in **rspec**. 
 
