@@ -1,8 +1,8 @@
 Samuel Overloop
 ===============
-<div>
-<img src="13404759.jpeg" alt="Profile Picture" style="width: 100px; float: left; margin-right: 40px">
-</div>
+
+<img src="13404759.jpeg" alt="Profile Picture" width="100px">
+
 email: [samuel.overloop@gmail.com](mailto:samuel.overloop@gmail.com)<br>
 twitter: [@transflumen](https://twitter.com/transflumen)<br>
 github: [samover](https://github.com/samover)<br>
