@@ -9,7 +9,7 @@ github: [samover](https://github.com/samover)<br>
 linkedIn: [Samuel Overloop](https://be.linkedin.com/in/samuel-overloop-7a7b44b7)
 ****************
 
-Formerly in education and community development all over the world, felt the need for a career change and spent three intense months learning TDD, pair programming and OOP in Ruby, Javascript and Swift at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
+Formerly in education and community development all over the world, felt the need for a career change and spent three intense months learning TDD, pair programming and OOP in Ruby, Javascript and Swift at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
 
 Seeking a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftmanship.
 
