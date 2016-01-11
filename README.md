@@ -14,13 +14,13 @@ Code Examples
 
 Technical Skills and Technologies
 ---------------------------------
-| |Most Comfortable|Comfortable|Touched on|
+| |Strong|Know|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Ruby, HTML/CSS|Javascript||
-|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord||Neo4j                 |
-|Frameworks|Rails, Sinatra, Bootstrap|Express.js|Angular.js,Meteor.js                       |
-|Testing|RSpec, Capybara|Jasmine, FactoryGirl, Fabricator|
-|Other|Version control through Github, TDD|Heroku deployment, Agile methodologies| |
+|Languages|Ruby, HTML/CSS|Javascript, Swift||
+|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Firebase||MongoDB                 |
+|Frameworks|Rails, Sinatra, Bootstrap|Angular.js|Node.js                       |
+|Testing|RSpec, Capybara, Jasmine, Quick/Nimble, XCTest | FactoryGirl, Karma, Protractor
+|Other|Version control through Github, TDD, Vim |Heroku deployment, Agile methodologies| |
 
 ## Professional Experience
 
