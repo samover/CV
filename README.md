@@ -35,15 +35,15 @@ Technical Skills and Technologies
 |Other|Version control through Github, TDD, Vim |Heroku deployment, Agile methodologies| | |
 
 ## Professional Experience
-** Magis Project Coordinator (2013-2014) **
+**Magis Project Coordinator (2013-2014)**
 
 Proposed, organised and funded successful two week summer event in Ireland for 100 participants aged 18-30 from 18 different countries.
 
-** Secondary school teacher (2011-2013) **
+**Secondary school teacher (2011-2013)**
 
 Taught Latin and Religion, with additional responsibility for study supervision and supervision of a year group. Served as member of pastoral council responsible for coordination and planning of activities related to school’s pedagogical project.
 
-** Society of Jesus Trainee (2008-2010) **
+**Society of Jesus Trainee (2008-2010)**
 
 Fulfilled multiple duties at locations worldwide, including community relief work, social work and pastoral work. Assisted village in Guyanese Amazon in primary school operations, teaching, developing library facility, and training pastoral lay administrators.
 
