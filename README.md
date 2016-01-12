@@ -1,7 +1,7 @@
 Samuel Overloop
 ===============
 
-Driven by a passion for change I joined the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research and I have proven myself to be resilient, determined and pragmatic when facing problems. I left the Jesuits, because I felt that I could do more in a different context. That is why I spent three intense months learning TDD and OOP in Ruby, Javascript and Swift following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
+Driven by a passion for change I joined the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research where I have proven myself to be resilient, determined and pragmatic when facing problems. I left the Jesuits, because I felt that I could do more in a different context. That is why I spent three intense months learning TDD and OOP in Ruby, Javascript and Swift following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
 
 Seeking a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
 
@@ -61,6 +61,8 @@ As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrima
 
 **SOCIETY OF JESUS (2008-1015)**
 - **Magis Project Coordinator (2013-2014)**
+
+    International young adult event sponsored by the Jesuits.
 
 - **Secondary school teacher (2011-2013)**
 
