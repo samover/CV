@@ -97,4 +97,7 @@ Jan 2016 - Twelve-week intensive coding bootcamp.
 Some facts about me
 -------------------
 
-*
+* When faced with a problem, will not rest till it is solved
+* Geocacher: the perfect mix of hiking and technology
+* Science Fiction Fan: dreaming of a better future
+* Still looking for a solution to solve the world problems
