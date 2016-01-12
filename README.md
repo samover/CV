@@ -17,9 +17,9 @@ Code Examples
 -------------
 #### [CHANGR](https://github.com/samover/changr)
 
-Final project for Makers Academy. Working in an agile team we build an IOS app in **Swift**, a language none of us had any prior experience with. With this project we wanted to help the less advantaged in our society to receive donations on the fly using a location-aware app thanks to **Bluetooth Beacons**.
+Final project for Makers Academy. Working in an agile team we build an IOS app in **Swift**, a language none of us had any prior experience with. With this project we wanted to help the less advantaged in our society to receive donations on the fly with a location-aware app using **Bluetooth Beacons**.
 
-Using a TDD approach, I had to write [an ad-hoc mock](https://github.com/samover/FirebaseMock) for **Firebase** in Swift, which I tested using **Quick/Nimble**. Unit testing was done through **XCTest**.
+Faithful to a TDD approach, I had to write [an ad-hoc mock](https://github.com/samover/FirebaseMock) for **Firebase** in Swift, which I tested using **Quick/Nimble**. Unit testing was done through **XCTest**.
 
 The presentation video of the app can be found on [Youtube](https://youtu.be/AyVZJ511cqI?t=96)
 
@@ -93,3 +93,8 @@ Jan 2016 - Twelve-week intensive coding bootcamp.
 **SINT-JANSCENTRUM, 'S-HERTOGENBOSCH, NL**
 
 2003 - BA in Philosophy
+
+Some facts about me
+-------------------
+
+*
