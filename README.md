@@ -1,19 +1,11 @@
 Samuel Overloop
 ===============
 
-<img src="13404759.jpeg" alt="Profile Picture" width="100px">
-
-email: [samuel.overloop@gmail.com](mailto:samuel.overloop@gmail.com)<br>
-twitter: [@transflumen](https://twitter.com/transflumen)<br>
-github: [samover](https://github.com/samover)<br>
-linkedIn: [Samuel Overloop](https://be.linkedin.com/in/samuel-overloop-7a7b44b7)
-****************
-
-Driven by a passion for change I joined the Society of Jesus (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research and I have proven myself to be resilient, determined and pragmatic when facing problems. I left the Jesuits, because I felt that I could do more in a different context. That is why I spent three intense months learning TDD and OOP in Ruby, Javascript and Swift following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
+Driven by a passion for change I joined the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research and I have proven myself to be resilient, determined and pragmatic when facing problems. I left the Jesuits, because I felt that I could do more in a different context. That is why I spent three intense months learning TDD and OOP in Ruby, Javascript and Swift following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
 
 Seeking a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
 
-Coding skills
+Coding Projects
 -------------
 #### [CHANGR](https://github.com/samover/changr)
 
@@ -25,7 +17,7 @@ The presentation video of the app can be found on [Youtube](https://youtu.be/AyV
 
 #### [CHITTER](https://github.com/samover/chitter)
 
-A fully tested Twitter clone built in **Ruby on Sinatra** with a **postresql** databse. This is my first project using these technologies as well as the first time I tried front-end styling in **CSS3** and **HTML5**.
+A fully tested Twitter clone built in **Ruby on Sinatra** with a **postresql** database. This is my first project using these technologies as well as the first time I tried front-end styling in **CSS3** and **HTML5**.
 
 The app was built in two days and can be found on [Heroku](https://badass-chitter.herokuapp.com/).
 
@@ -51,26 +43,30 @@ Competencies
 ------------
 #### Event planning and coordination
 
+I proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries. Bringing together international partners, this event is the basis and inspiration for further young adult work in Flanders and the Netherlands.
+
 #### Team training
+
+I worked in the Guyanese Amazon as one of two members of the parish team in a small Amerindian village. My main responsibility consisted in training the pastoral lay administrators of the Pakaraima district to help them effectively solve community conflicts and offer them discernment and decision making tools to engage the invasion of the Western lifestyle without losing their identity.
 
 #### Public speaking
 
-#### Determined
+As a Jesuit, I gave numerous sermons and public talks. I feel comfortable before large crowds as exemplified by my experience as a secondary school teacher and main organiser of Magis.
 
-#### Decision maker
+#### Resilient problem solver
+
+As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrimage in Spain without any money. It was an experience that forced me to find solutions from a position of complete helplessness facing rejections, fear, hunger and insecurity.
 
 ## Professional Experience
-**Magis Project Coordinator (2013-2014)**
 
-Proposed, organised and funded successful two week summer event in Ireland for 100 participants aged 18-30 from 18 different countries.
+**SOCIETY OF JESUS (2008-1015)**
+- **Magis Project Coordinator (2013-2014)**
 
-**Secondary school teacher (2011-2013)**
+- **Secondary school teacher in Latin and Religion (2011-2013)**
 
-Taught Latin and Religion, with additional responsibility for study supervision and supervision of a year group. Served as member of pastoral council responsible for coordination and planning of activities related to school’s pedagogical project.
+- **Society of Jesus Trainee (2008-2010)**
 
-**Society of Jesus Trainee (2008-2010)**
-
-Fulfilled multiple duties at locations worldwide, including community relief work, social work and pastoral work. Assisted village in Guyanese Amazon in primary school operations, teaching, developing library facility, and training pastoral lay administrators.
+    Fulfilled multiple duties at locations worldwide, including community relief work, social work and pastoral work. Assisted village in Guyanese Amazon in primary school operations, teaching, developing library facility, and training pastoral lay administrators.
 
 ## Education
 
