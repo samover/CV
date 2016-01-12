@@ -9,7 +9,7 @@ github: [samover](https://github.com/samover)<br>
 linkedIn: [Samuel Overloop](https://be.linkedin.com/in/samuel-overloop-7a7b44b7)
 ****************
 
-Formerly in education and community development all over the world,  felt the need for a career change and spent three intense months learning TDD and OOP in Ruby, Javascript and Swift following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
+Driven by a passion for change I joined the Society of Jesus (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research and I have proven myself to be resilient, determined and pragmatic when facing problems. I left the Jesuits, because I felt that I could do more in a different context. That is why I spent three intense months learning TDD and OOP in Ruby, Javascript and Swift following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
 
 Seeking a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
 
@@ -45,7 +45,7 @@ My first **angularJS** single page app written over a weekend. It is a simple To
 
 #### [TAKE AWAY BACKEND](https://github.com/samover/takeaway)
 
-One of the first **Ruby** apps I am really proud off. This was an exercise in Objected Oriented Programming and **SOLID** design principles, and the first time I connected an app to an API. Fully tested in **rspec**. This was also the weekend I started using **Vim** and I haven't stopped since. At a later stage, I attempted to [rebuild](https://github.com/Mattia46/takeaway_project) this in the **MEAN** stack (WIP). 
+One of the first **Ruby** apps I am really proud off. This was an exercise in Objected Oriented Programming and **SOLID** design principles, and the first time I connected an app to an API. Fully tested in **rspec**. This was also the weekend I started using **Vim** and I haven't stopped since. At a later stage, I attempted to [rebuild](https://github.com/Mattia46/takeaway_project) this in the **MEAN** stack (WIP).
 
 Competencies
 ------------
