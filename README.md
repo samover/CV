@@ -62,7 +62,9 @@ As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrima
 **SOCIETY OF JESUS (2008-1015)**
 - **Magis Project Coordinator (2013-2014)**
 
-- **Secondary school teacher in Latin and Religion (2011-2013)**
+- **Secondary school teacher (2011-2013)**
+
+    Taught Latin and Religion to various year groups at Sint-Jozefcollege, Turnhout, BE.
 
 - **Society of Jesus Trainee (2008-2010)**
 
