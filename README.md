@@ -9,11 +9,11 @@ github: [samover](https://github.com/samover)<br>
 linkedIn: [Samuel Overloop](https://be.linkedin.com/in/samuel-overloop-7a7b44b7)
 ****************
 
-Formerly in education and community development all over the world, felt the need for a career change and spent three intense months learning TDD, pair programming and OOP in Ruby, Javascript and Swift at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
+Formerly in education and community development all over the world, felt the need for a career change and spent three intense months learning TDD and OOP in Ruby, Javascript and Swift following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
 
 Seeking a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftmanship.
 
-Code Examples
+Coding skills
 -------------
 #### [CHANGR](https://github.com/samover/changr)
 
@@ -31,7 +31,7 @@ The app was built in two days and can be found on [Heroku](https://badass-chitte
 
 #### [INSTAGRAM](https://github.com/samover/instagram)
 
-My first rails app. This is an Instagram clone styled with Bootstrap. Of course it is fully tested using **rspec**, **capybara** and **FactoryGirl**.
+My first **rails** app with **activerecord**. This is an Instagram clone styled with Bootstrap. Of course it is fully tested using **rspec**, **capybara** and **FactoryGirl**.
 
 The app was built in two days and can be found on [Heroku](https://instaclone-challenge.herokuapp.com/).
 
@@ -45,17 +45,19 @@ My first **angularJS** single page app written over a weekend. It is a simple To
 
 #### [TAKE AWAY BACKEND](https://github.com/samover/takeaway)
 
-One of the first **Ruby** apps I am really proud off. This was an exercise in Objected Oriented Programming and **SOLID** design principles, and the first time I connected an app to an API. Fully tested in **rspec**. 
+One of the first **Ruby** apps I am really proud off. This was an exercise in Objected Oriented Programming and **SOLID** design principles, and the first time I connected an app to an API. Fully tested in **rspec**. This was also the weekend I started using **Vim** and I haven't stopped since. At a later stage, I attempted to [rebuild](https://github.com/Mattia46/takeaway_project) this in the **MEAN** stack (WIP). 
 
-Technical Skills and Technologies
----------------------------------
-| |Strong|Know|Touched on|
-|---------|----------------|-------------------|------------------------------|
-|Languages|Ruby, Javascript, HTML/CSS|Swift||
-|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Firebase||MongoDB                 |
-|Frameworks|Rails, Sinatra, Bootstrap|Angular.js, Express.js |Node.js                       |
-|Testing|RSpec, Capybara, Jasmine, Quick/Nimble, XCTest | FactoryGirl, Karma, Protractor | |
-|Other|Version control through Github, TDD, Vim |Heroku deployment, Agile methodologies| | |
+Competencies
+------------
+#### Event planning and coordination
+
+#### Team training
+
+#### Public speaking
+
+#### Determined
+
+#### Decision maker
 
 ## Professional Experience
 **Magis Project Coordinator (2013-2014)**
