@@ -71,9 +71,13 @@ As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrima
 - **Society of Jesus Trainee (2008-2010)**
 
     Fulfilled multiple duties at locations worldwide, including community relief work, social work and pastoral work:
+    
         * Assisted village in Guyanese Amazon with primary school operations, teaching, developing library facility, and training pastoral lay administrators.
+        
         * 40-day pilgrimage with no money in Spain
+        
         * Worked for *Milestone*, a residential centre for people living with HIV in Edinburgh, Scotland
+        
         * Social worker at *De Tinten* in Ghent, Belgium, offering assistance to Roma migrants with urgent housing needs, food packages and education.
 
 **VOLUNTEER FOR MISSIONARIES OF CHARITY, SAN GREGORIO, ROME, IT (2003-2004)**
