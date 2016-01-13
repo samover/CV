@@ -74,13 +74,12 @@ As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrima
     * Worked for *Milestone*, a residential centre for people living with HIV in Edinburgh, Scotland
     * Social worker at *De Tinten* in Ghent, Belgium, offering assistance to Roma migrants with urgent housing needs, food packages and education.
 
-**VOLUNTEER FOR MISSIONARIES OF CHARITY, SAN GREGORIO, ROME, IT (2003-2004)**
-
-I volunteered at a homeless shelter, helping in the kitchen, cleaning, offering personal and pastoral care and organising entertainment activities. A highlight was the Christmas Carol Service I helped to organise for the residents.
-
 **VOLUNTEER FOR MISSIONARIES OF CHARITY, TOR BELLA MONACA / PONTE MILVIO, ROME, IT (2007-2008)**
 
 I offered education and catechesis to Roma children in a trailer camp at Ponte Milvio and after-school care at Tor Bella Monaca to children from disfunctional families. I feel that my main achievement was staying faithful to them, despite the many setbacks and difficult circumstances of the work. 
+**VOLUNTEER FOR MISSIONARIES OF CHARITY, SAN GREGORIO, ROME, IT (2003-2004)**
+
+I volunteered at a homeless shelter, helping in the kitchen, cleaning, offering personal and pastoral care and organising entertainment activities. A highlight was the Christmas Carol Service I helped to organise for the residents.
 
 ## Education
 
