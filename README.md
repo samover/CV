@@ -5,7 +5,7 @@ Driven by a passion for change I joined the [Society of Jesus](http://www.jesuit
 
 I am looking for a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
 
-[Coding Projects](#coding_projects) | [Skills](#skills) | [Professional Experience](#professional_experience) | [Education](#education) | [Personality and Interests](#personality_and_interests)
+[Coding Projects](#coding-projects) | [Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Personality and Interests](#personality-and-interests)
 
 Coding Projects
 -------------
