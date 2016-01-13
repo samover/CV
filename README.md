@@ -1,9 +1,9 @@
 Samuel Overloop
 ===============
 
-I am a resilient problem solver who has spent three months three intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* following agile methodologies at [Makers Academy](http://www.makersacademy.com). I built an open-source testing framework for **Firebase** and Swift, because it did not exist yet. Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
+I am someone passionate about bringing change who has spent three months three intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* following agile methodologies at [Makers Academy](http://www.makersacademy.com). I built an open-source testing framework for **Firebase** and Swift, because it did not exist yet. Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
 
-I have proven myself to be resilient, determined and pragmatic when facing problems. Driven by a passion for change, in a previous life I was a member the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I left the Jesuits because I felt that I could do more in a different context.
+I have proven myself to be resilient, determined and pragmatic when facing problems. In a previous life I was a member the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I left the Jesuits because I felt that I could do more in a different context.
 
 That is why I am looking for a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
 
@@ -14,7 +14,7 @@ Coding Projects
 
 #### [FIREBASEMOCK](https://github.com/samover/FirebaseMock)
 
-An open-source testing framework for Swift and Firebase, because it doesn't exist yet. Tested with **Quick/Nimble**. 
+An open-source testing framework for **Swift** and **Firebase**, because it doesn't exist yet. Tested with **Quick/Nimble**. 
 
 #### [CHANGR](https://github.com/samover/changr)
 
@@ -28,7 +28,7 @@ Makerthon project for Makers Academy using **angularJS** on the **Ionic** framew
 
 #### [TAKE AWAY BACKEND](https://github.com/samover/takeaway)
 
-One of the first **Ruby** apps I am really proud of. This was an exercise in Objected Oriented Programming and **SOLID** design principles, and the first time I connected an app to an API. Fully tested in **RSpec**. This was also the weekend I started using **Vim** and I haven't stopped since. At a later stage, I attempted to [rebuild](https://github.com/Mattia46/takeaway_project) this in the **MEAN** stack (WIP).
+One of the first **Ruby** apps I am really proud of. This was an exercise in **Objected Oriented Programming** and **SOLID** design principles, and the first time I connected an app to an API. Fully tested in **RSpec**. This was also the weekend I started using **Vim** and I haven't stopped since. At a later stage, I attempted to [rebuild](https://github.com/Mattia46/takeaway_project) this in the **MEAN** stack (WIP).
 
 Other projects I am proud of: [Bowling Scorecard](https://github.com/samover/bowling_scorecard) (jQuery, Jasmine), [To-do list](https://github.com/samover/todo_list) (angularJS, Karma, Protractor), [Instaclone](https://github.com/samover/instagram) (Ruby on Rails, ActiveRecord, RSpec, Capybara, FactoryGirl), [Chitter](https://github.com/samover/chitter) (Ruby, Sinatra, PostgreSQL, CSS3, HTML5)
 
@@ -39,9 +39,9 @@ Skills
 
 | |Strong|Know|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Ruby, Javascript, HTML/CSS|Swift||
-|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Firebase||MongoDB                 |
-|Frameworks|Rails, Sinatra, Bootstrap|Angular.js, Express.js, Ionic |Node.js                       |
+|Languages|Ruby, JavaScript, HTML/CSS|Swift||
+|Databases/ORMS|PostreSQL, DataMapper, ActiveRecord, Firebase||MongoDB                 |
+|Frameworks|Rails, Sinatra, Bootstrap|AngularJS, Express, Ionic |Node.js                       |
 |Testing|RSpec, Capybara, Jasmine, Quick/Nimble, XCTest | FactoryGirl, Karma, Protractor | |
 |Other|Version control through Github, TDD, Vim |Heroku deployment, Agile methodologies| | |
 
