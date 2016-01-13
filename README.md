@@ -62,7 +62,7 @@ As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrima
 **SOCIETY OF JESUS (2008-1015)**
 - **Magis Project Coordinator (2013-2014)**
 
-    International young adult event sponsored by the Jesuits.
+    International young adult event sponsored by the Jesuits, Dublin, IE
 
 - **Secondary school teacher (2011-2013)**
 
@@ -70,13 +70,17 @@ As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrima
 
 - **Society of Jesus Trainee (2008-2010)**
 
-    Fulfilled multiple duties at locations worldwide, including community relief work, social work and pastoral work. Assisted village in Guyanese Amazon with primary school operations, teaching, developing library facility, and training pastoral lay administrators.
+    Fulfilled multiple duties at locations worldwide, including community relief work, social work and pastoral work:
+        * Assisted village in Guyanese Amazon with primary school operations, teaching, developing library facility, and training pastoral lay administrators.
+        * 40-day pilgrimage with no money in Spain
+        * Worked for *Milestone*, a residential centre for people living with HIV in Edinburgh, Scotland
+        * Social worker at *De Tinten* in Ghent, Belgium, offering assistance to Roma migrants with urgent housing needs, food packages and education.
 
-**VOLUNTEER FOR MISSIONARIES OF CHARITY, SAN GREGORIO, ROME (2003-2004)**
+**VOLUNTEER FOR MISSIONARIES OF CHARITY, SAN GREGORIO, ROME, IT (2003-2004)**
 
 I volunteered at a homeless shelter, helping in the kitchen, cleaning, offering personal and pastoral care and organising entertainment activities. A highlight was the Christmas Carol Service I helped to organise for the residents.
 
-**VOLUNTEER FOR MISSIONARIES OF CHARITY, TOR BELLA MONACA / PONTE MILVIO, ROME (2007-2008)**&
+**VOLUNTEER FOR MISSIONARIES OF CHARITY, TOR BELLA MONACA / PONTE MILVIO, ROME, IT (2007-2008)**
 
 I offered education and catechesis to Roma children in a trailer camp at Ponte Milvio and after-school care at Tor Bella Monaca to children from disfunctional families. I feel that my main achievement was staying faithful to them, despite the many setbacks and difficult circumstances of the work. 
 
@@ -96,7 +100,7 @@ Jan 2016 - Twelve-week intensive coding bootcamp.
 
 2011 - MA in Philosophy
 
-**LA SAPIENZA, ROME, ITALY**
+**LA SAPIENZA, ROME, IT**
 
 2007 - BA in Classical Languages
 
