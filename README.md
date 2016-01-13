@@ -1,7 +1,7 @@
 Samuel Overloop
 ===============
 
-Driven by a passion for change I joined the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I have proven myself to be resilient, determined and pragmatic when facing problems. I left the Jesuits because I felt that I could do more in a different context. That is why I spent three intense months learning TDD and OOP in Ruby, Javascript and Swift following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
+Driven by a passion for change I joined the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I have proven myself to be resilient, determined and pragmatic when facing problems. I left the Jesuits because I felt that I could do more in a different context. That is why I spent three intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
 
 I am looking for a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
 
@@ -10,37 +10,25 @@ I am looking for a developer role where I can work with people equally passionat
 Coding Projects
 -------------
 
+#### [FIREBASEMOCK](https://github.com/samover/FirebaseMock)
+
+An open-source testing framework for Swift and Firebase, because it doesn't exist yet. Tested with **Quick/Nimble**. 
+
 #### [CHANGR](https://github.com/samover/changr)
 
-Final project for Makers Academy. Working in an agile team we built an IOS app in **Swift**, a language none of us had worked with before. With this project we wanted to help the less advantaged in our society receive donations on the fly with a location-aware app using **Bluetooth Beacons**.
-
-Faithful to a TDD approach, I had to write [an ad-hoc mock](https://github.com/samover/FirebaseMock) for **Firebase** in Swift, which I tested using **Quick/Nimble**. Unit testing was done through **XCTest**.
+Final project for Makers Academy. Working in an agile team we built an IOS app in **Swift**, a language none of us had worked with before. With this project we wanted to help the less advantaged in our society receive donations on the fly with a location-aware app using **Bluetooth Beacons**. Testing is done with **XCTest**.
 
 A video of our presentation of the app can be found on [Youtube](https://youtu.be/AyVZJ511cqI?t=96)
 
-#### [CHITTER](https://github.com/samover/chitter)
+#### [SO SAFE](https://github.com/samover/so_safe)
 
-A fully tested Twitter clone built in **Ruby on Sinatra** with a **postresql** database. This was my first project using these technologies as well as the first time I tried front-end styling in **CSS3** and **HTML5**.
-
-The app was built in two days and can be found on [Heroku](https://badass-chitter.herokuapp.com/).
-
-#### [INSTAGRAM](https://github.com/samover/instagram)
-
-My first **Rails** app with **ActiveRecord**. This is an Instagram clone styled with Bootstrap. It is fully tested using **RSpec**, **Capybara** and **FactoryGirl**.
-
-The app was built in two days and can be found on [Heroku](https://instaclone-challenge.herokuapp.com/).
-
-#### [BOWLING SCORECARD](https://github.com/samover/bowling_scorecard)
-
-This is my first app written in **JavaScript** using **jQuery**. It was fully test driven with **Jasmine**. The biggest challenge with this app was building the logic for the tenth frame.
-
-#### [TO-DO LIST](https://github.com/samover/todo_list)
-
-My first **angularJS** single page app, written over a weekend. It is a simple to-do list and tested using **Karma** and **Protractor**.
+Makerthon project for Makers Academy using **angularJS** on the **Ionic** framework to build a mobile app that allows users to let their loved ones know that they are safe in case of a disaster. We hade **daily scrum** and programmed in pairs and developed the app using TDD with **Jasmine**, **Protractor** and **Karma**.
 
 #### [TAKE AWAY BACKEND](https://github.com/samover/takeaway)
 
 One of the first **Ruby** apps I am really proud of. This was an exercise in Objected Oriented Programming and **SOLID** design principles, and the first time I connected an app to an API. Fully tested in **RSpec**. This was also the weekend I started using **Vim** and I haven't stopped since. At a later stage, I attempted to [rebuild](https://github.com/Mattia46/takeaway_project) this in the **MEAN** stack (WIP).
+
+Other projects I am proud of: [Bowling Scorecard (jQueyr, Jasmine)](https://github.com/samover/bowling_scorecard), [To-do list (angularJS, Karma, Protractor)](https://github.com/samover/todo_list), [Instaclone (Ruby on Rails, ActiveRecord, RSpec, Capybara, FactoryGirl)](https://github.com/samover/instagram), [Chitter (Ruby, Sinatra, PostgreSQL, CSS3, HTML5)](https://github.com/samover/chitter)
 
 Skills
 ------
