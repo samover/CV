@@ -63,7 +63,7 @@ Professional Experience
     Taught Latin and Religion to various year groups at Sint-Jozefcollege, Turnhout, BE.
 
 - **Society of Jesus Trainee (2008-2010)**
-- 
+
     Completed various missions all over the world in order to learn independent problem solving in difficult situations.
 
 **VOLUNTEER FOR MISSIONARIES OF CHARITY, ROME, IT (2007-2008 / 2003-2004)**
