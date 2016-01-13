@@ -37,11 +37,11 @@ Skills
 
 #### Coding
 
-| |Strong|Know|Touched on|$
+| |Strong|Know|Touched on|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, Javascript, HTML/CSS|Swift||
 |Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Firebase||MongoDB                 |
-|Frameworks|Rails, Sinatra, Bootstrap|Angular.js, Express.js |Node.js                       |
+|Frameworks|Rails, Sinatra, Bootstrap|Angular.js, Express.js, Ionic |Node.js                       |
 |Testing|RSpec, Capybara, Jasmine, Quick/Nimble, XCTest | FactoryGirl, Karma, Protractor | |
 |Other|Version control through Github, TDD, Vim |Heroku deployment, Agile methodologies| | |
 
