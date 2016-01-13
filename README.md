@@ -41,19 +41,19 @@ One of the first **Ruby** apps I am really proud of. This was an exercise in Obj
 
 Skills
 ------
-#### Event planning and coordination
+#### Event Planning and Coordination
 
 I proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries. Bringing together international partners, this event is the basis and inspiration for further young adult work in Flanders and the Netherlands.
 
-#### Team training
+#### Team Training
 
 I worked in the Guyanese Amazon as one of two members of the parish team in a small Amerindian village. My main responsibility consisted of training the pastoral lay administrators of the Pakaraima district. We helped them to effectively solve community conflicts; we also offered them discernment and decision making tools to engage the encroaching Western lifestyle without losing their identity.
 
-#### Public speaking
+#### Public Speaking
 
 As a Jesuit, I gave numerous sermons and public talks. I feel comfortable before large crowds as exemplified by my experience as a secondary school teacher and main organiser of Magis.
 
-#### Resilient problem solver
+#### Resilient Problem Solver
 
 As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrimage in Spain without any money. It was an experience that forced me to find solutions from a position of complete helplessness, facing rejections, fear, hunger and insecurity.
 
@@ -72,11 +72,11 @@ As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrima
 
     Fulfilled multiple duties at locations worldwide, including community relief work, social work and pastoral work. Assisted village in Guyanese Amazon with primary school operations, teaching, developing library facility, and training pastoral lay administrators.
 
-**VOLUNTEER FOR MISSIONARIES OF CHARITY, SAN GREGORIO, ROME (2003-2004)
+**VOLUNTEER FOR MISSIONARIES OF CHARITY, SAN GREGORIO, ROME (2003-2004)**
 
 I volunteered at a homeless shelter, helping in the kitchen, cleaning, offering personal and pastoral care and organising entertainment activities. A highlight was the Christmas Carol Service I helped to organise for the residents.
 
-**VOLUNTEER FOR MISSIONARIES OF CHARITY, TOR BELLA MONACA / PONTE MILVIO, ROME (2007-2008)
+**VOLUNTEER FOR MISSIONARIES OF CHARITY, TOR BELLA MONACA / PONTE MILVIO, ROME (2007-2008)**&
 
 I offered education and catechesis to Roma children in a trailer camp at Ponte Milvio and after-school care at Tor Bella Monaca to children from disfunctional families. I feel that my main achievement was staying faithful to them, despite the many setbacks and difficult circumstances of the work. 
 
@@ -111,7 +111,7 @@ Jan 2016 - Twelve-week intensive coding bootcamp.
 Personality and Interests
 --------------------------
 
-* When faced with a problem, will not rest till it is solved
+* Problem solver: when faced with a problem, will not rest till it is solved
 * Geocacher: the perfect mix of hiking and technology
-* Science Fiction Fan: dreaming of a better future
-* Still looking for a solution to solve the world problems
+* Science Fiction Fan: dreaming of a better future filled with awesome tech
+* Unrepenting idealist: still looking for a solution to solve the world problems
