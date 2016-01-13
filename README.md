@@ -34,6 +34,17 @@ Other projects I am proud of: [Bowling Scorecard](https://github.com/samover/bow
 
 Skills
 ------
+
+#### Coding
+
+| |Strong|Know|Touched on|$
+|---------|----------------|-------------------|------------------------------|
+|Languages|Ruby, Javascript, HTML/CSS|Swift||
+|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Firebase||MongoDB                 |
+|Frameworks|Rails, Sinatra, Bootstrap|Angular.js, Express.js |Node.js                       |
+|Testing|RSpec, Capybara, Jasmine, Quick/Nimble, XCTest | FactoryGirl, Karma, Protractor | |
+|Other|Version control through Github, TDD, Vim |Heroku deployment, Agile methodologies| | |
+
 #### Event Planning and Coordination
 
 I proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries. Bringing together international partners, this event is the basis and inspiration for further young adult work in Flanders and the Netherlands.
