@@ -1,15 +1,15 @@
 Samuel Overloop
 ===============
 
-Driven by a passion for change I joined the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research where I have proven myself to be resilient, determined and pragmatic when facing problems. I left the Jesuits, because I felt that I could do more in a different context. That is why I spent three intense months learning TDD and OOP in Ruby, Javascript and Swift following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a mouthful of Arabic, I have fallen in love as well with computer languages.
+Driven by a passion for change I joined the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I have proven myself to be resilient, determined and pragmatic when facing problems. I left the Jesuits, because I felt that I could do more in a different context. That is why I spent three intense months learning TDD and OOP in Ruby, Javascript and Swift following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
 
-Seeking a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
+I seek a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
 
 Coding Projects
 -------------
 #### [CHANGR](https://github.com/samover/changr)
 
-Final project for Makers Academy. Working in an agile team we build an IOS app in **Swift**, a language none of us had any prior experience with. With this project we wanted to help the less advantaged in our society to receive donations on the fly with a location-aware app using **Bluetooth Beacons**.
+Final project for Makers Academy. Working in an agile team we build an IOS app in **Swift**, a language none of us had worked with before. With this project we wanted to help the less advantaged in our society to receive donations on the fly with a location-aware app using **Bluetooth Beacons**.
 
 Faithful to a TDD approach, I had to write [an ad-hoc mock](https://github.com/samover/FirebaseMock) for **Firebase** in Swift, which I tested using **Quick/Nimble**. Unit testing was done through **XCTest**.
 
@@ -17,13 +17,13 @@ The presentation video of the app can be found on [Youtube](https://youtu.be/AyV
 
 #### [CHITTER](https://github.com/samover/chitter)
 
-A fully tested Twitter clone built in **Ruby on Sinatra** with a **postresql** database. This is my first project using these technologies as well as the first time I tried front-end styling in **CSS3** and **HTML5**.
+A fully tested Twitter clone built in **Ruby on Sinatra** with a **postresql** database. This was my first project using these technologies as well as the first time I tried front-end styling in **CSS3** and **HTML5**.
 
 The app was built in two days and can be found on [Heroku](https://badass-chitter.herokuapp.com/).
 
 #### [INSTAGRAM](https://github.com/samover/instagram)
 
-My first **rails** app with **activerecord**. This is an Instagram clone styled with Bootstrap. Of course it is fully tested using **rspec**, **capybara** and **FactoryGirl**.
+My first **rails** app with **activerecord**. This is an Instagram clone styled with Bootstrap. It is fully tested using **rspec**, **capybara** and **FactoryGirl**.
 
 The app was built in two days and can be found on [Heroku](https://instaclone-challenge.herokuapp.com/).
 
@@ -47,7 +47,7 @@ I proposed, organised and funded a successful two week summer event in Ireland c
 
 #### Team training
 
-I worked in the Guyanese Amazon as one of two members of the parish team in a small Amerindian village. My main responsibility consisted in training the pastoral lay administrators of the Pakaraima district to help them effectively solve community conflicts and offer them discernment and decision making tools to engage the invasion of the Western lifestyle without losing their identity.
+I worked in the Guyanese Amazon as one of two members of the parish team in a small Amerindian village. My main responsibility consisted of training the pastoral lay administrators of the Pakaraima district to help them effectively solve community conflicts and offer them discernment and decision making tools to engage the encroaching Western lifestyle without losing their identity.
 
 #### Public speaking
 
@@ -72,6 +72,14 @@ As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrima
 
     Fulfilled multiple duties at locations worldwide, including community relief work, social work and pastoral work. Assisted village in Guyanese Amazon in primary school operations, teaching, developing library facility, and training pastoral lay administrators.
 
+**VOLUNTEER FOR MISSIONARIES OF CHARITY, SAN GREGORIO, ROME (2003-2004)
+
+I volunteered at a homeless shelter helping in the kitchen, cleaning, offering personal and pastoral care and organising entertainment activities. A highlight was the Christmas Carol Service I helped organise for the residents.
+
+**VOLUNTEER FOR MISSIONARIES OF CHARITY, TOR BELLA MONACA / PONTE MILVIO (2007-2008)
+
+I offered education and catechesis to Roma children in a trailer camp at Ponte Milvio and after school care at Tor Bella Monaca to children from disfunctional families. I feel that my main achievement has been staying faithful to them, despite the many setbacks and difficult circumstances of the work. 
+
 ## Education
 
 **MAKERS ACADEMY, LONDON, UK**
@@ -95,6 +103,10 @@ Jan 2016 - Twelve-week intensive coding bootcamp.
 **SINT-JANSCENTRUM, 'S-HERTOGENBOSCH, NL**
 
 2003 - BA in Philosophy
+
+**CATHOLIC UNIVERSITY OF LOUVAIN, BE**
+
+1999 - Admitted to Engineering after passing entrance exam
 
 Some facts about me
 -------------------
