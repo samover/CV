@@ -5,8 +5,11 @@ Driven by a passion for change I joined the [Society of Jesus](http://www.jesuit
 
 I am looking for a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
 
+[Coding Projects](#coding_projects) | [Skills](#skills) | [Professional Experience](#professional_experience) | [Education](#education) | [Personality and Interests](#personality_and_interests)
+
 Coding Projects
 -------------
+
 #### [CHANGR](https://github.com/samover/changr)
 
 Final project for Makers Academy. Working in an agile team we built an IOS app in **Swift**, a language none of us had worked with before. With this project we wanted to help the less advantaged in our society receive donations on the fly with a location-aware app using **Bluetooth Beacons**.
@@ -57,7 +60,8 @@ As a Jesuit, I gave numerous sermons and public talks. I feel comfortable before
 
 As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrimage in Spain without any money. It was an experience that forced me to find solutions from a position of complete helplessness, facing rejections, fear, hunger and insecurity.
 
-## Professional Experience
+Professional Experience
+-----------------------
 
 **SOCIETY OF JESUS (2008-1015)**
 - **Magis Project Coordinator (2013-2014)**
@@ -77,11 +81,13 @@ As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrima
 **VOLUNTEER FOR MISSIONARIES OF CHARITY, TOR BELLA MONACA / PONTE MILVIO, ROME, IT (2007-2008)**
 
 I offered education and catechesis to Roma children in a trailer camp at Ponte Milvio and after-school care at Tor Bella Monaca to children from disfunctional families. I feel that my main achievement was staying faithful to them, despite the many setbacks and difficult circumstances of the work. 
+
 **VOLUNTEER FOR MISSIONARIES OF CHARITY, SAN GREGORIO, ROME, IT (2003-2004)**
 
 I volunteered at a homeless shelter, helping in the kitchen, cleaning, offering personal and pastoral care and organising entertainment activities. A highlight was the Christmas Carol Service I helped to organise for the residents.
 
-## Education
+Education
+---------
 
 **MAKERS ACADEMY, LONDON, UK**
 
