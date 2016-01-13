@@ -28,7 +28,7 @@ Makerthon project for Makers Academy using **angularJS** on the **Ionic** framew
 
 One of the first **Ruby** apps I am really proud of. This was an exercise in Objected Oriented Programming and **SOLID** design principles, and the first time I connected an app to an API. Fully tested in **RSpec**. This was also the weekend I started using **Vim** and I haven't stopped since. At a later stage, I attempted to [rebuild](https://github.com/Mattia46/takeaway_project) this in the **MEAN** stack (WIP).
 
-Other projects I am proud of: [Bowling Scorecard](https://github.com/samover/bowling_scorecard) (jQueyr, Jasmine), [To-do list](https://github.com/samover/todo_list) (angularJS, Karma, Protractor), [Instaclone](https://github.com/samover/instagram)(Ruby on Rails, ActiveRecord, RSpec, Capybara, FactoryGirl), [Chitter](https://github.com/samover/chitter) (Ruby, Sinatra, PostgreSQL, CSS3, HTML5)
+Other projects I am proud of: [Bowling Scorecard](https://github.com/samover/bowling_scorecard) (jQueyr, Jasmine), [To-do list](https://github.com/samover/todo_list) (angularJS, Karma, Protractor), [Instaclone](https://github.com/samover/instagram) (Ruby on Rails, ActiveRecord, RSpec, Capybara, FactoryGirl), [Chitter](https://github.com/samover/chitter) (Ruby, Sinatra, PostgreSQL, CSS3, HTML5)
 
 Skills
 ------
