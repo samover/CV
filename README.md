@@ -1,9 +1,11 @@
 Samuel Overloop
 ===============
 
-Driven by a passion for change I joined the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I have proven myself to be resilient, determined and pragmatic when facing problems. I left the Jesuits because I felt that I could do more in a different context. That is why I spent three intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* following agile methodologies at [Makers Academy](http://www.makersacademy.com). Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
+I am a resilient problem solver who has spent three months three intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* following agile methodologies at [Makers Academy](http://www.makersacademy.com). I built an open-source testing framework for **Firebase** and Swift, because it did not exist yet. Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
 
-I am looking for a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
+I have proven myself to be resilient, determined and pragmatic when facing problems. Driven by a passion for change, in a previous life I was a member the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I left the Jesuits because I felt that I could do more in a different context.
+
+That is why I am looking for a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
 
 [Coding Projects](#coding-projects) | [Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Personality and Interests](#personality-and-interests)
 
@@ -61,18 +63,12 @@ Professional Experience
     Taught Latin and Religion to various year groups at Sint-Jozefcollege, Turnhout, BE.
 
 - **Society of Jesus Trainee (2008-2010)**
-    * Assisted village in Guyanese Amazon with primary school operations, teaching, developing library facility, and training pastoral lay administrators.
-    * 40-day pilgrimage with no money in Spain
-    * Worked for *Milestone*, a residential centre for people living with HIV in Edinburgh, Scotland
-    * Social worker at *De Tinten* in Ghent, Belgium, offering assistance to Roma migrants with urgent housing needs, food packages and education.
+- 
+    Completed various missions all over the world in order to learn independent problem solving in difficult situations.
 
-**VOLUNTEER FOR MISSIONARIES OF CHARITY, TOR BELLA MONACA / PONTE MILVIO, ROME, IT (2007-2008)**
+**VOLUNTEER FOR MISSIONARIES OF CHARITY, ROME, IT (2007-2008 / 2003-2004)**
 
-I offered education and catechesis to Roma children in a trailer camp at Ponte Milvio and after-school care at Tor Bella Monaca to children from disfunctional families. I feel that my main achievement was staying faithful to them, despite the many setbacks and difficult circumstances of the work. 
-
-**VOLUNTEER FOR MISSIONARIES OF CHARITY, SAN GREGORIO, ROME, IT (2003-2004)**
-
-I volunteered at a homeless shelter, helping in the kitchen, cleaning, offering personal and pastoral care and organising entertainment activities. A highlight was the Christmas Carol Service I helped to organise for the residents.
+Offered education and pastoral care to children from disadvantaged backgrounds.
 
 Education
 ---------
@@ -98,10 +94,6 @@ Jan 2016 - Twelve-week intensive coding bootcamp.
 **SINT-JANSCENTRUM, 'S-HERTOGENBOSCH, NL**
 
 2003 - BA in Philosophy
-
-**CATHOLIC UNIVERSITY OF LOUVAIN, BE**
-
-1999 - Admitted to Engineering after passing entrance exam
 
 Personality and Interests
 --------------------------
