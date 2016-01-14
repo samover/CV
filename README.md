@@ -57,10 +57,10 @@ RSpec, Capybara, Jasmine, Protractor, Karma, XCTest, Quick/Nimble
 
 **Soft Skills**
 
-* Public Speaking: spoke for large audiences on a regular basis ranging from 5-100 people, very comfortable in front of a crowd
-* Negotiation and Conflict Mediation: helped solve community conflictsin Guyanese Amerindian village; also offered them discernment and decision making tools to engage the encroaching Western lifestyle without losing their identity.
-* Event Planning and Coordination: proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries; also built the website for the event.
-* Independent Problem Solver: forced to find solutions from a position of complete helplessness, facing rejections, fear, hunger and insecurity on a 40-day walking pilgrimage in Spain without any money.
+* *Public Speaking*: spoke for large audiences on a regular basis ranging from 5-100 people, very comfortable in front of a crowd
+* *Negotiation and Conflict Mediation*: helped solve community conflictsin Guyanese Amerindian village; also offered them discernment and decision making tools to engage the encroaching Western lifestyle without losing their identity.
+* *Event Planning and Coordination*: proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries; also built the website for the event.
+* *Independent Problem Solver*: forced to find solutions from a position of complete helplessness, facing rejections, fear, hunger and insecurity on a 40-day walking pilgrimage in Spain without any money.
 
 Professional Experience
 -----------------------
