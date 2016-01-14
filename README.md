@@ -56,21 +56,11 @@ PostgreSQL (ActiveRecord, DataMapper), MongoDB
 RSpec, Capybara, Jasmine, Protractor, Karma, XCTest, Quick/Nimble
 
 **Soft Skills**
-* Event Planning and Coordination
 
-I proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries. Bringing together international partners, this event is the basis and inspiration for further young adult work in Flanders and the Netherlands. I also built the website for the event.
-
-* Team Training
-
-I worked in the Guyanese Amazon as one of two members of the parish team in a small Amerindian village. My main responsibility consisted of training the pastoral lay administrators of the Pakaraima district. We helped them to effectively solve community conflicts; we also offered them discernment and decision making tools to engage the encroaching Western lifestyle without losing their identity.
-
-#### Public Speaking
-
-As a Jesuit, I gave numerous sermons and public talks. I feel comfortable before large crowds as exemplified by my experience as a secondary school teacher and main organiser of Magis.
-
-#### Resilient Problem Solver
-
-As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrimage in Spain without any money. It was an experience that forced me to find solutions from a position of complete helplessness, facing rejections, fear, hunger and insecurity.
+* Public Speaking: spoke for large audiences on a regular basis ranging from 5-100 people, very comfortable in front of a crowd
+* Negotiation and Conflict Mediation: helped solve community conflictsin Guyanese Amerindian village; also offered them discernment and decision making tools to engage the encroaching Western lifestyle without losing their identity.
+* Event Planning and Coordination: proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries; also built the website for the event.
+* Independent Problem Solver: forced to find solutions from a position of complete helplessness, facing rejections, fear, hunger and insecurity on a 40-day walking pilgrimage in Spain without any money.
 
 Professional Experience
 -----------------------
