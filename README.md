@@ -37,19 +37,30 @@ Skills
 
 **Mobile**
 
-Swift, XCTest, Quick/Nimble, Ionic
+Swift, Ionic
 
 **Backend**
 
-Ruby, Rails, Sinatra, Node.js, 
+Ruby, Rails, Sinatra, Node.js, Express
+
+**Frontend**
+
+HTML5/CSS3, Bootstrap, AngularJS, jQuery
+
+**Databases**
+
+PostgreSQL (ActiveRecord, DataMapper), MongoDB
+
+**Testing**
+
+RSpec, Capybara, Jasmine, Protractor, Karma, XCTest, Quick/Nimble
 
 **Soft Skills**
-
-#### Event Planning and Coordination
+* Event Planning and Coordination
 
 I proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries. Bringing together international partners, this event is the basis and inspiration for further young adult work in Flanders and the Netherlands. I also built the website for the event.
 
-#### Team Training
+* Team Training
 
 I worked in the Guyanese Amazon as one of two members of the parish team in a small Amerindian village. My main responsibility consisted of training the pastoral lay administrators of the Pakaraima district. We helped them to effectively solve community conflicts; we also offered them discernment and decision making tools to engage the encroaching Western lifestyle without losing their identity.
 
