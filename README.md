@@ -45,11 +45,11 @@ Ruby, Rails, Sinatra, Node.js, Express
 
 **Frontend**
 
-HTML5/CSS3, Bootstrap, AngularJS, jQuery
+HTML5/CSS3, Bootstrap, JavaScript, AngularJS, jQuery
 
 **Databases**
 
-PostgreSQL (ActiveRecord, DataMapper), MongoDB
+PostgreSQL, ActiveRecord, DataMapper, MongoDB
 
 **Testing**
 
@@ -100,7 +100,7 @@ At this twelve-week intensive coding bootcamp I learned and put into practice:
 
 Personality and Interests
 --------------------------
-
+* Fast Learner: my coding projects are the result of only three months learning; imagine what I can do in a year 
 * Problem solver: when faced with a problem, will not rest till it is solved
 * Geocacher: the perfect mix of hiking and technology
 * Science Fiction Fan: dreaming of a better future filled with awesome tech
