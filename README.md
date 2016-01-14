@@ -1,16 +1,16 @@
 Samuel Overloop
 ===============
 
-I am someone passionate about bringing change who has spent three months three intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* following agile methodologies at [Makers Academy](http://www.makersacademy.com). I built an open-source testing framework for *Firebase* and Swift, because it did not exist yet. Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
+I am someone passionate about bringing change who has spent three months three intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* at [Makers Academy](http://www.makersacademy.com). I am resilient, determined and pragmatic when facing problems. I built an open-source testing framework for *Firebase* and Swift, because it did not exist yet. Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
 
-I have proven myself to be resilient, determined and pragmatic when facing problems. In a previous life I was a member the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I left the Jesuits because I felt that I could do more in a different context.
+In a previous life I was a member the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I left the Jesuits because I felt that I could have a greater social impact as a developer.
 
 That is why I am looking for a developer role where I can work with people equally passionate about coding, problem solving and making the world a better place with a focus on team work and software craftsmanship.
 
 [Coding Projects](#coding-projects) | [Skills](#skills) | [Professional Experience](#professional-experience) | [Education](#education) | [Personality and Interests](#personality-and-interests)
 
 Coding Projects
--------------
+---------------
 
 #### [FIREBASEMOCK](https://github.com/samover/FirebaseMock)
 
@@ -35,19 +35,19 @@ Other projects I am proud of: [Bowling Scorecard](https://github.com/samover/bow
 Skills
 ------
 
-#### Coding
+**Mobile**
 
-| |Strong|Know|Touched on|
-|---------|----------------|-------------------|------------------------------|
-|Languages|Ruby, JavaScript, HTML/CSS|Swift||
-|Databases/ORMS|PostreSQL, DataMapper, ActiveRecord, Firebase||MongoDB                 |
-|Frameworks|Rails, Sinatra, Bootstrap|AngularJS, Express, Ionic |Node.js                       |
-|Testing|RSpec, Capybara, Jasmine, Quick/Nimble, XCTest | FactoryGirl, Karma, Protractor | |
-|Other|Version control through Github, TDD, Vim |Heroku deployment, Agile methodologies| | |
+Swift, XCTest, Quick/Nimble, Ionic
+
+**Backend**
+
+Ruby, Rails, Sinatra, Node.js, 
+
+**Soft Skills**
 
 #### Event Planning and Coordination
 
-I proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries. Bringing together international partners, this event is the basis and inspiration for further young adult work in Flanders and the Netherlands.
+I proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries. Bringing together international partners, this event is the basis and inspiration for further young adult work in Flanders and the Netherlands. I also built the website for the event.
 
 #### Team Training
 
@@ -63,48 +63,39 @@ As part of my Jesuit training we were sent in pairs on a 40-day walking pilgrima
 
 Professional Experience
 -----------------------
+**Magis Project Coordinator (2013-2014)**
 
-**SOCIETY OF JESUS (2008-1015)**
-- **Magis Project Coordinator (2013-2014)**
+International young adult event sponsored by the Jesuits, Dublin, IE
 
-    International young adult event sponsored by the Jesuits, Dublin, IE
+**Secondary school teacher (2011-2013)**
 
-- **Secondary school teacher (2011-2013)**
+Taught Latin and Religion to various year groups at Sint-Jozefcollege, Turnhout, BE.
 
-    Taught Latin and Religion to various year groups at Sint-Jozefcollege, Turnhout, BE.
+**Society of Jesus Trainee (2008-2010)**
 
-- **Society of Jesus Trainee (2008-2010)**
+Completed various missions all over the world in order to learn independent problem solving in difficult situations.
 
-    Completed various missions all over the world in order to learn independent problem solving in difficult situations.
+**Volunteer for Missionaries of Charity (2007-2008 / 2003-2004)**
 
-**VOLUNTEER FOR MISSIONARIES OF CHARITY, ROME, IT (2007-2008 / 2003-2004)**
-
-Offered education and pastoral care to children from disadvantaged backgrounds.
+Offered education and pastoral care to children from disadvantaged backgrounds, Rome, IT.
 
 Education
 ---------
 
-**MAKERS ACADEMY, LONDON, UK**
+2016, MAKERS ACADEMY, LONDON, UK
 
-Jan 2016 - Twelve-week intensive coding bootcamp.
-* Test Driven Development, pair programming and agile practices
+At this twelve-week intensive coding bootcamp I learned and put into practice:
+
+* Test Driven Development, pair programming and other agile practices
 * Object Oriented Programming and Design Principles
 * Full stack web development (Ruby, JavaScript)
 * Final project: Changr, a Swift app to help the least advantaged in our society
 
-**HEYTHROP COLLEGE, UNIVERSITY OF LONDON, UK**
+2016 - BA in Divinity, HEYTHROP COLLEGE, UNIVERSITY OF LONDON, UK
 
-2015 - Diploma of Higher Education in Divinity
+2011 - MA in Philosophy, HEYTHROP COLLEGE, UNIVERSITY OF LONDON, UK
 
-2011 - MA in Philosophy
-
-**LA SAPIENZA, ROME, IT**
-
-2007 - BA in Classical Languages
-
-**SINT-JANSCENTRUM, 'S-HERTOGENBOSCH, NL**
-
-2003 - BA in Philosophy
+2007 - BA in Classical Languages, LA SAPIENZA, ROME, IT
 
 Personality and Interests
 --------------------------
