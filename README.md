@@ -1,7 +1,7 @@
 Samuel Overloop
 ===============
 
-I am someone passionate about bringing change who has spent three months three intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* at [Makers Academy](http://www.makersacademy.com). I am resilient, determined and pragmatic when facing problems. I built an open-source testing framework for *Firebase* and Swift, because it did not exist yet. Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
+I am someone passionate about bringing change who has spent three months three intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* at [Makers Academy](http://www.makersacademy.com), a coding bootcamp. I am resilient, determined and pragmatic when facing problems. I built an open-source testing framework for *Firebase* and Swift, because it did not exist yet. Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
 
 In a previous life I was a member the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I left the Jesuits because I felt that I could have a greater social impact as a developer.
 
@@ -58,7 +58,7 @@ RSpec, Capybara, Jasmine, Protractor, Karma, XCTest, Quick/Nimble
 **Soft Skills**
 
 * *Public Speaking*: spoke for large audiences on a regular basis ranging from 5-100 people, very comfortable in front of a crowd
-* *Negotiation and Conflict Mediation*: helped solve community conflictsin Guyanese Amerindian village; also offered them discernment and decision making tools to engage the encroaching Western lifestyle without losing their identity.
+* *Negotiation and Conflict Mediation*: helped solve community conflicts in Guyanese Amerindian village; also offered them discernment and decision making tools to adapt to modernity without losing their identity.
 * *Event Planning and Coordination*: proposed, organised and funded a successful two week summer event in Ireland called Magis for 100 participants aged 18-30 from 18 different countries; also built the website for the event.
 * *Independent Problem Solver*: forced to find solutions from a position of complete helplessness, facing rejections, fear, hunger and insecurity on a 40-day walking pilgrimage in Spain without any money.
 
@@ -84,9 +84,6 @@ Education
 ---------
 
 2016, MAKERS ACADEMY, LONDON, UK
-
-At this twelve-week intensive coding bootcamp I learned and put into practice:
-
 * Test Driven Development, pair programming and other agile practices
 * Object Oriented Programming and Design Principles
 * Full stack web development (Ruby, JavaScript)
