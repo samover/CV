@@ -24,7 +24,7 @@ A video of our presentation of the app can be found on [Youtube](https://youtu.b
 
 #### [SO SAFE](https://github.com/samover/so_safe)
 
-Team project for Makers Academy using **angularJS** on the **Ionic** framework. We built a mobile app that allows users to let their loved ones know that they are safe in case of a disaster. We hade **daily scrum** and **pair programming**. The app was developed using TDD with **Jasmine**, **Protractor** and **Karma**.
+Team project for Makers Academy using **angularJS** on the **Ionic** framework. We built a mobile app that allows users to let their loved ones know that they are safe in case of a disaster. We had **daily scrum** and **pair programming**. The app was developed using TDD with **Jasmine**, **Protractor** and **Karma**.
 
 #### [TAKE AWAY BACKEND](https://github.com/samover/takeaway)
 
