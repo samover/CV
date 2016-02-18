@@ -1,7 +1,7 @@
 Samuel Overloop
 ===============
 
-I am someone passionate about bringing change who has spent three months three intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* at [Makers Academy](http://www.makersacademy.com), a coding bootcamp. I am resilient, determined and pragmatic when facing problems. I built an open-source testing framework for *Firebase* and Swift, because it did not exist yet. Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
+I am someone passionate about bringing change who has spent four intense months learning TDD and OOP in *Ruby*, *Javascript* and *Swift* at [Makers Academy](http://www.makersacademy.com), a coding bootcamp. I am resilient, determined and pragmatic when facing problems. I built an open-source testing framework for *Firebase* and Swift, because it did not exist yet. Whilst already speaking English, Dutch, French, Italian, German, Spanish and a smattering of Arabic, I have now fallen in love with computer languages as well.
 
 In a previous life I was a member the [Society of Jesus](http://www.jesuit.org.uk) (aka the Jesuits), the world's oldest multinational, in order to contribute to a better world through education, community development and research. I left the Jesuits because I felt that I could have a greater social impact as a developer.
 
