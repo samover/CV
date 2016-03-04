@@ -16,6 +16,13 @@ Coding Projects
 
 An open-source testing framework for **Swift** and **Firebase**, because it doesn't exist yet. Tested with **Quick/Nimble**. 
 
+#### [RAILS stateless API] (https://github.com/samover/expenses-api)
+
+A fully tested (**RSpec**) stateless API in **Rails** for keeping of expenses. I am using this API to learn building apps in different frameworks for different devices.
+* Versioning and subdomain
+* Available resources: users, expenses, categories
+* Token based authentication
+
 #### [CHANGR](https://github.com/samover/changr)
 
 Final project for Makers Academy. Working in an agile team we built an IOS app in **Swift**, a language none of us had worked with before. With this project we wanted to help the less advantaged in our society receive donations on the fly with a location-aware app using **Bluetooth Beacons**. Testing is done with **XCTest**.
