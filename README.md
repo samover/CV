@@ -96,7 +96,7 @@ Education
 * Full stack web development (Ruby, JavaScript)
 * Final project: Changr, a Swift app to help the least advantaged in our society
 
-2016 - BA in Divinity, HEYTHROP COLLEGE, UNIVERSITY OF LONDON, UK
+2016 - BA in Theology and Religious Studies, CATHOLIC UNIVERSITY OF LOUVAIN, BE
 
 2011 - MA in Philosophy, HEYTHROP COLLEGE, UNIVERSITY OF LONDON, UK
 
